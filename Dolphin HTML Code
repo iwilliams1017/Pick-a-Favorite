@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All About Dolphins</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f8ff;
+            color: #333;
+        }
+        header {
+            background-color: #4682b4;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 0 10%;
+        }
+        h2 {
+            color: #4682b4;
+        }
+        footer {
+            background-color: #4682b4;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>All About Dolphins</h1>
+    <p>Discover the beauty, intelligence, and wonder of dolphins!</p>
+</header>
+
+<section>
+    <h2>Introduction</h2>
+    <p>Dolphins are some of the most intelligent and social creatures in the world. As a child, I fell in love with dolphins, studying them in my animal encyclopedia and drawing pictures of them for hours. My passion for these amazing mammals continues today, and I’m excited to share why dolphins are so fascinating!</p>
+</section>
+
+<section>
+    <h2>Fun Facts About Dolphins</h2>
+    <ul>
+        <li>Dolphins live in social groups called pods.</li>
+        <li>Dolphins are highly intelligent and can solve problems and communicate.</li>
+        <li>Dolphins are mammals, just like humans, and give birth to live young.</li>
+        <li>Dolphins often use tools and have unique vocalizations.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Why Dolphins Are Special</h2>
+    <p>As a child, I was fascinated by how dolphins live, work, and play together in their pods. Their intelligence, social nature, and the fact that they are mammals, just like us, made me feel a special connection to them. I loved learning all I could about these beautiful creatures, and I hope to share that passion with my daughter one day!</p>
+</section>
+
+<section>
+    <h2>Gallery</h2>
+    <img src="dolphin-image.jpg" alt="A beautiful dolphin swimming">
+    <!-- You can add more images here -->
+</section>
+
+<section>
+    <h2>Learn More and Get Involved</h2>
+    <p>Dolphins are amazing creatures that need our protection. Consider supporting dolphin conservation efforts and learning more about how you can help preserve their natural habitats.</p>
+</section>
+
+<footer>
+    <p>Created with love for dolphins.</p>
+</footer>
+
+</body>
+</html>
